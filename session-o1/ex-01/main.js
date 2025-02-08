@@ -16,3 +16,9 @@ let nextNumber = inputNumber + 1;
 alert(prevNumber + ", " + inputNumber + " , " + nextNumber);
 
 // alert (`${prevNumber}`, `${inputNumber}`,`${nextNumber}`) alta modalitate de a afisa , se numeste interpolare.
+
+alert("The opposite of" + inputNumber + " is: " + -inputNumber);
+
+alert(`The remainder of ${inputNumber} divided by 2 is ${inputNumber % 2}`);
+
+alert(`2 to the power of` + inputNumber + `equals` + 2 ** inputNumber);
